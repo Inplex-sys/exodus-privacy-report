@@ -2,8 +2,8 @@
 [Kycnot](https://kycnot.me) | [PrivacyTools](https://www.privacytools.io) | [Stealths](https://stealths.net/)
 
 ### Report on Centralized Server Dependence and Privacy Risks in Exodus App
+![Sans titre 1](https://github.com/user-attachments/assets/399a8170-94a0-4e65-9f2c-cf25bee3c5c7)
 
-![Sans titre 1](https://github.com/user-attachments/assets/9e627a1a-9aa5-4b70-b79e-2ea10abbbc22)
 
 ##### After asking questions on the Exodus discord about how Exodus Wallet deal with transactions i got banned and 5 other members who was interested in the subject too.
 
