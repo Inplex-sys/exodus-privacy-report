@@ -1,6 +1,11 @@
+#### 📣 Known References For Privacy
+[Kycnot](https://kycnot.me) | [PrivacyTools](https://www.privacytools.io) | [Stealths](https://stealths.net/)
+
 ## Report on Centralized Server Dependence and Privacy Risks in Exodus App
 
-##### After asking question on the Exodus discord about how Exodus Wallet deal with transactions i got banned and 5 other members who was interested in the subject.
+![Sans titre 1](https://github.com/user-attachments/assets/9e627a1a-9aa5-4b70-b79e-2ea10abbbc22)
+
+##### After asking questions on the Exodus discord about how Exodus Wallet deal with transactions i got banned and 5 other members who was interested in the subject too.
 
 ### Abstract
 The Exodus app, a popular cryptocurrency wallet, presents itself as a user-friendly interface for managing digital assets. However, the underlying architecture of the app raises significant concerns regarding user privacy and security. This report examines the implications of Exodus's reliance on centralized servers, the integration with peer-to-peer (P2P) blockchains, and the potential risks associated with IP logging and address correlation.
