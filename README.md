@@ -1,7 +1,7 @@
 #### 📣 Known References For Privacy
 [Kycnot](https://kycnot.me) | [PrivacyTools](https://www.privacytools.io) | [Stealths](https://stealths.net/)
 
-## Report on Centralized Server Dependence and Privacy Risks in Exodus App
+### Report on Centralized Server Dependence and Privacy Risks in Exodus App
 
 ![Sans titre 1](https://github.com/user-attachments/assets/9e627a1a-9aa5-4b70-b79e-2ea10abbbc22)
 
