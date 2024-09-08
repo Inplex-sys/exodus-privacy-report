@@ -1,5 +1,5 @@
 #### 📣 Known References For Privacy
-[Kycnot](https://kycnot.me) | [PrivacyTools](https://www.privacytools.io) | [Stealths](https://stealths.net/)
+[Kycnot](https://kycnot.me) | [PrivacyTools](https://www.privacytools.io) | [Stealths](https://stealths.net/) | [Brume Wallet](https://github.com/brumewallet/wallet)
 
 ### Report on Centralized Server Dependence and Privacy Risks in Exodus App
 ![Sans titre 1](https://github.com/user-attachments/assets/399a8170-94a0-4e65-9f2c-cf25bee3c5c7)
